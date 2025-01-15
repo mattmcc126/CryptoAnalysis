@@ -1,0 +1,16 @@
+# Environment files and VENV folder
+.env
+*.env
+config.py
+CoinbaseEnv/
+
+# Yap files
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
