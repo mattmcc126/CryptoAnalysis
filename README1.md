@@ -1,6 +1,8 @@
-# Crypto Bot Design Doc
+# Intial Design Doc for Project
 
-# Bot logic/ Flow
+## Crypto Bot Design Doc
+
+## Bot logic/ Flow
 
 ### Market Monitoring, Data Retrieval for Analysis
 
